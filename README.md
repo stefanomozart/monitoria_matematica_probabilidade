@@ -7,3 +7,6 @@ Material da Disciplina D21 - Monitoria em Matemática e Probabilidade, ministrad
 
 ## Aulas
 - [Aula 01 - Teoria de conjuntos](./slides/D21_Monitoria_MatProb_01.pdf)
+
+## Exercícios
+- Lista de exercícios 01 - [exercícios](./exercicios/D21_Monitoria_MatProb_Exercicios_01.ipynb) - [soluções](./exercicios/D21_Monitoria_MatProb_Exercicios_01_solucoes.ipynb)
